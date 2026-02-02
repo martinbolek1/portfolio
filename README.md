@@ -104,3 +104,4 @@ This project works with a dataset from the **UCI Machine Learning Repository**, 
 - Turned results into actionable recommendations in **Power BI**: management dashboards + a “data science” page + drill-through to cluster detail.
 - **Clusters 6, 7 and 5** had a higher conversion rate than the dataset average, with **Cluster 6 ~25% more effective** – a great target especially for banks without the budget for mass marketing (even though it’s a smaller segment).
 - The dataset is **imbalanced** (mostly `y=0`) and, for performance reasons, I trained the model on only **~8% of the data**, so results should be seen as a **practical prototype** that could be improved with full training.
+
