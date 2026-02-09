@@ -105,3 +105,19 @@ This project works with a dataset from the **UCI Machine Learning Repository**, 
 - **Clusters 6, 7 and 5** had a higher conversion rate than the dataset average, with **Cluster 6 ~25% more effective** – a great target especially for banks without the budget for mass marketing (even though it’s a smaller segment).
 - The dataset is **imbalanced** (mostly `y=0`) and, for performance reasons, I trained the model on only **~8% of the data**, so results should be seen as a **practical prototype** that could be improved with full training.
 
+# **Demographics Data**
+
+![Demographic Preview](demographic%20data.png)
+
+# **Marketing Data**
+
+![Marketing Preview](marketing%20data.png)
+
+# **Predictions Outcome**
+
+![Marketing Preview](predictions%20results.png)
+
+# **Drill Through Cluster 6**
+
+![Marketing Preview](Drill%20through.png)
+
